@@ -77,3 +77,7 @@ docker-compose.override.yml
 
 # Logs
 *.log
+
+.env
+.env.*
+!.env.example
